@@ -25,6 +25,7 @@ de la cantidad de unidades que pida. Además podemos ver una lista de los pedido
   - Clase **PedidosServiceImpl.java** (Implementa la interfaz **PedidosService.java**)
 * com.curso.controller
   - Clase **PedidosController.java**
+  
   > GET: Recojo la lista de los pedidos
   
   > POST: Realizo un pedido
