@@ -32,4 +32,4 @@ de la cantidad de unidades que pida. Además podemos ver una lista de los pedido
 ## Autor
 * Daniel Rodriguez
 ## Estado
-Terminado
+🟢Terminado🟢
