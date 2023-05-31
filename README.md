@@ -29,6 +29,10 @@ de la cantidad de unidades que pida. Además podemos ver una lista de los pedido
   > GET: Recojo la lista de los pedidos
   
   > POST: Realizo un pedido
+
+### Metodos
+* verPedidos() -> Lista de pedidos almacenados
+* realizarPedido(int idPedido,int codigoProducto, int unidades) -> Insertar/Realizar un pedido pasando el id, el codigo del producto y las unidades como parametros
 ## Autor
 * Daniel Rodriguez
 ## Estado
